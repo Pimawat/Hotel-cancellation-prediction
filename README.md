@@ -8,7 +8,7 @@ The online hotel reservation channels have dramatically changed booking possibil
  
      
        
- 
+  
   
   
  
